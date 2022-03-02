@@ -1,0 +1,24 @@
+{
+  "name": "website-screenshot",
+  "version": "1.0.0",
+  "description": "Enter links to take full page screenshots of for archival purposes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guy-bartkus/website-screenshot.git"
+  },
+  "author": "Guy Bartkus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guy-bartkus/website-screenshot/issues"
+  },
+  "homepage": "https://github.com/guy-bartkus/website-screenshot#readme",
+  "dependencies": {
+    "puppeteer": "^13.4.1",
+    "puppeteer-core": "^13.4.1",
+    "sanitize-filename": "^1.6.3"
+  }
+}
