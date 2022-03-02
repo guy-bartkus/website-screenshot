@@ -5,7 +5,7 @@ const config = require('./config');
 const {getLines} = require('./lineReader');
 
 if(config.saveFormat !== ('png' || 'pdf')) {
-    console.error("ERROR: Save format should either be png of pdf!");
+    console.error("ERROR: Save format should either be png or pdf!");
     process.exit(1);
 }
 
