@@ -1,8 +1,8 @@
 # Setup
 
-After cloning, run `npm install` in root of project.
-Enter each link on a new ine in `links.txt`.
-`npm run start` or `node .` to start program.
+After cloning, run `npm install` in root of project.  
+Enter each link on a new ine in `links.txt`.  
+`npm run start` or `node .` to start program.  
 
 ## Details
 
