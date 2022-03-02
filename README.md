@@ -12,3 +12,4 @@ This project is not completely finished, but does work. Made this so I could qui
 
 * Allow to wait for specific element per link
 * Allow custom file name for each link instead of using sanitized page title
+* Create screenshots folder if it does not exists instead of erroring
